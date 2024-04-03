@@ -1,3 +1,5 @@
+For more details about the project visit: https://drive.google.com/drive/folders/1XIRxjA5J395H2O17Jib_AJfVQ-Xgg2sW?usp=sharing 
+
 Please execute the SQL files in the follwing order
 🔒Database Init
 🔒Database Cleaning 
