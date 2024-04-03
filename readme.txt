@@ -1,3 +1,4 @@
+# Background
 Our client, a prominent figure in the financial landscape, renowned for its extensive banking
 services and comprehensive credit card operations, serves a diverse customer base and maintains
 a wide network of merchant partnerships. This position underscores their pivotal role in facilitating
